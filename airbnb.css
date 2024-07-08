@@ -345,4 +345,28 @@
     position: absolute;
     top:130px;
     left:100px;
+} .barak {
+    position:absolute;
+    top: 300PX;
+    left:30px;
+    width:300px;
+    height:250px;
+}  .barak1 {
+    position:absolute;
+    top: 300PX;
+    left:340px;
+    width:300px;
+    height:250px;
+} .barak2 {
+    position:absolute;
+    top: 300PX;
+    left:650px;
+    width:300px;
+    height:250px;
+} .barak3 {
+    position:absolute;
+    top: 300PX;
+    left:960px;
+    width:300px;
+    height:250px;
 }
