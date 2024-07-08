@@ -369,4 +369,31 @@
     left:960px;
     width:300px;
     height:250px;
+}  .iep {
+    margin:0%;
+    height:400px;
+    background-color:rgba(255, 255, 255, 0);
+    position:absolute;
+    top:600px;
+    border-top: 1px solid black;
+    padding-right:97.4%;
+
+    
+} .list1 {
+    color:rgb(0, 0, 0);
+    position: absolute;
+    left:30px;
+    bottom:100px;
+}
+.list2 {
+    color:rgb(0, 0, 0);
+    position: absolute;
+    left:430px;
+    bottom:79px;
+}
+.list3 {
+    color:rgb(0, 0, 0);
+    position: absolute;
+    left:850px;
+    bottom:80px;
 }
